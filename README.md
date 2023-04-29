@@ -3,10 +3,6 @@
 
        Projects related to kafka
        
- -
- 
- -
-
 
 
 @mehmetklllc
